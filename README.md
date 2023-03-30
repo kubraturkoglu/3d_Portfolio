@@ -10,8 +10,4 @@ What I used:
 - E-Mail.Js 
 - Responsive Design 
 
-![image](https://user-images.githubusercontent.com/54949171/227712187-d7a05580-7c16-4159-937a-ec5daa6d1306.png)
-![image](https://user-images.githubusercontent.com/54949171/227712197-8a298dd2-9710-488e-b184-140817ca4e5b.png)
-![image](https://user-images.githubusercontent.com/54949171/227712236-3c086830-7b4a-4e8b-b2bc-3b9240027946.png)
-
-
+![İsimsiz video ‐ Clipchamp ile yapıldı](https://user-images.githubusercontent.com/54949171/228823720-cca421c5-5a3d-491d-854d-83e77a60f514.gif)
